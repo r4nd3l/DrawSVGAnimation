@@ -1,0 +1,29 @@
+/* Default DevCorner Style Setting */
+
+:root{
+  --dc-: #28a745;
+}
+
+body{
+  background: url(../img/img_12.jpeg) no-repeat;
+  background-size: cover;
+}
+
+h3{
+  position: fixed;
+  top: 15%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  font-size: 3em;
+  font-family: Roboto;
+}
+
+svg{
+  position: fixed;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  width: 50%;
+}
